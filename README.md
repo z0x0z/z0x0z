@@ -12,10 +12,11 @@ Security Engineer | Stocks Trader | Bug Hunter | Cybersecurity Enthusiastic | Af
 * Active Stock Trader
 * Ocassional Bug Hunter
 
-![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=z0x0z&layout=compact&theme=tokyonight)
+![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=z0x0z&layout=compact&theme=tokyonight)   
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=z0x0z&show_icons=true&theme=tokyonight)
 
 ### Follow Me:
 
-[![Github Follow](https://img.shields.io/github/followers/z0x0z?style=social)](https://github.com/aravindha1234u/) <br>
+[![Github Follow](https://img.shields.io/github/followers/z0x0z?style=social)](https://github.com/z0x0z/) <br>
 [![Twitter](https://img.shields.io/twitter/follow/_z0x0z_?style=social)](https://twitter.com/_z0x0z_) <br>
