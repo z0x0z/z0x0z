@@ -1,6 +1,5 @@
 # > WHOAMI
 <center>
-<h3> Gopikrishna </h3>
 Security Engineer | Stocks Trader | Bug Hunter | Cybersecurity Enthusiastic | Aficionado
 </center>
 <hr>
@@ -10,9 +9,7 @@ Security Engineer | Stocks Trader | Bug Hunter | Cybersecurity Enthusiastic | Af
 * Web, Mobile, Cloud, API, WiFi Security Professional
 * Python Scripting 
 * Active Stock Trader
-* Ocassional Bug Hunter
-
-![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=z0x0z&layout=compact&theme=tokyonight)   
+* Ocassional Bug Hunter   
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=z0x0z&show_icons=true&theme=tokyonight)
 
