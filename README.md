@@ -1,17 +1,21 @@
-### Hi there 👋
+# > WHOAMI
+<center>
+<h3> Gopikrishna </h3>
+Security Engineer | Stocks Trader | Bug Hunter | Cybersecurity Enthusiastic | Aficionado
+</center>
+<hr>
 
-<!--
-**z0x0z/z0x0z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+* Pentesting and Vulnerability Assessment
+* Web, Mobile, Cloud, API, WiFi Security Professional
+* Python Scripting 
+* Active Stock Trader
+* Ocassional Bug Hunter
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=z0x0z&layout=compact&theme=tokyonight)
 ![github stats](https://github-readme-stats.vercel.app/api?username=z0x0z&show_icons=true&theme=tokyonight)
+
+### Follow Me:
+
+[![Github Follow](https://img.shields.io/github/followers/z0x0z?style=social)](https://github.com/aravindha1234u/) <br>
+[![Twitter](https://img.shields.io/twitter/follow/_z0x0z_?style=social)](https://twitter.com/_z0x0z_) <br>
