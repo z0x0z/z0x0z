@@ -21,7 +21,7 @@
 <br/>
 <br/>
 <center>
-Security Engineer | Stocks Trader | Bug Hunter | Cybersecurity Enthusiastic | Aficionado
+  <b>Security Engineer | Stocks Trader | Bug Hunter | Cybersecurity Enthusiastic | Aficionado</b>
 </center>
 <hr>
 
