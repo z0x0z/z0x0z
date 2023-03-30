@@ -28,6 +28,7 @@
 ### Skills
 * Pentesting and Vulnerability Assessment
 * Web, Mobile, Cloud, API, WiFi Security Professional
+* DevSecOps - Containers & Kubernetes 
 * Python Scripting 
 * Active Stock Trader
 * Ocassional Bug Hunter  
